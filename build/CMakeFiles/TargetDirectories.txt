@@ -1,8 +1,0 @@
-/home/peter/Projects/sphinx_example/build/CMakeFiles/rebuild_cache.dir
-/home/peter/Projects/sphinx_example/build/CMakeFiles/edit_cache.dir
-/home/peter/Projects/sphinx_example/build/src/CMakeFiles/rebuild_cache.dir
-/home/peter/Projects/sphinx_example/build/src/CMakeFiles/edit_cache.dir
-/home/peter/Projects/sphinx_example/build/src/CMakeFiles/modern_library.dir
-/home/peter/Projects/sphinx_example/build/app/CMakeFiles/rebuild_cache.dir
-/home/peter/Projects/sphinx_example/build/app/CMakeFiles/edit_cache.dir
-/home/peter/Projects/sphinx_example/build/app/CMakeFiles/app.dir
